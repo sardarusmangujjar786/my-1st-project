@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WWW.usman.Com</title>
+    </head>
+    <body>
+        <h1>My New Website from notepad</h1>
+        <p>Click on here</p>
+    </body>
+</html>
